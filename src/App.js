@@ -42,7 +42,6 @@ function App() {
     e.preventDefault();
     setSearchCity(searchInput);
   };
-  const Heading = () => <h1> hello! </h1>;
   return (
     <div className="container">
       <h1>Weather app</h1>
